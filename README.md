@@ -9,8 +9,7 @@
 ---
 
 ## 🌟 Sobre mí
-✨ Soy estudiante de Ingeniería en Sistemas interesada en descubrir cosas nuevas y quebrarme cada día más la cabeza  
-🚀 Me gusta aprender cosas nuevas casi todos los días  
+✨ Soy estudiante de Ingeniería en Sistemas interesada en descubrir cosas nuevas y quebrarme cada día más la cabeza 🙂‍↕️
 
 ---
 
@@ -38,4 +37,4 @@
 
 ---
 
-✨ *Gracias por visitar mi perfil* ✨
+✨🪷 *Gracias por visitar mi perfil* 🪷✨
