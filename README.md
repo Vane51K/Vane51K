@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Vane</h1>
+<h1 align="center">✨ Hola, soy Vane ✨</h1>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNueTVldDk2cHZzZ3FoNmgybDBlaW5pNm1qYXFyMmc4bmwxdDcxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="300"/>
@@ -10,7 +10,7 @@
 
 ## 🌟 Sobre mí
 ✨ Soy estudiante de Ingeniería en Sistemas interesada en descubrir cosas nuevas y quebrarme cada día más la cabeza  
-🚀 Me gusta aprender cosas nuevas todos los días  
+🚀 Me gusta aprender cosas nuevas casi todos los días  
 
 ---
 
